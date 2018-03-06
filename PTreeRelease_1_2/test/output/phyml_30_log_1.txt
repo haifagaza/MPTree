@@ -1,0 +1,161 @@
+Initial tree cost (NJ): 1591
+New tree has a better cost: 1579
+
+Initial tree cost (NJ): 2553
+New tree has a better cost: 2550
+New tree has a better cost: 2533
+New tree has a better cost: 2532
+New tree has a better cost: 2531
+
+Initial tree cost (NJ): 457
+New tree has a better cost: 456
+New tree has a better cost: 455
+
+Initial tree cost (NJ): 891
+New tree has a better cost: 886
+New tree has a better cost: 885
+New tree has a better cost: 883
+
+Initial tree cost (NJ): 616
+New tree has a better cost: 615
+
+Initial tree cost (NJ): 2709
+New tree has a better cost: 2707
+New tree has a better cost: 2700
+New tree has a better cost: 2698
+
+Initial tree cost (NJ): 1664
+New tree has a better cost: 1657
+New tree has a better cost: 1655
+
+Initial tree cost (NJ): 1539
+New tree has a better cost: 1535
+New tree has a better cost: 1534
+New tree has a better cost: 1533
+
+Initial tree cost (NJ): 453
+New tree has a better cost: 452
+
+Initial tree cost (NJ): 380
+
+Initial tree cost (NJ): 2646
+New tree has a better cost: 2642
+New tree has a better cost: 2640
+
+Initial tree cost (NJ): 2049
+New tree has a better cost: 2047
+New tree has a better cost: 2044
+New tree has a better cost: 2040
+New tree has a better cost: 2034
+New tree has a better cost: 2028
+New tree has a better cost: 2027
+
+Initial tree cost (NJ): 3071
+New tree has a better cost: 3065
+New tree has a better cost: 3060
+New tree has a better cost: 3056
+New tree has a better cost: 3054
+New tree has a better cost: 3053
+New tree has a better cost: 3051
+
+Initial tree cost (NJ): 2759
+New tree has a better cost: 2740
+New tree has a better cost: 2726
+New tree has a better cost: 2715
+New tree has a better cost: 2714
+New tree has a better cost: 2712
+New tree has a better cost: 2711
+New tree has a better cost: 2707
+
+Initial tree cost (NJ): 1486
+New tree has a better cost: 1484
+
+Initial tree cost (NJ): 392
+New tree has a better cost: 391
+
+Initial tree cost (NJ): 2019
+New tree has a better cost: 2015
+
+Initial tree cost (NJ): 2255
+New tree has a better cost: 2247
+New tree has a better cost: 2245
+New tree has a better cost: 2240
+New tree has a better cost: 2238
+New tree has a better cost: 2233
+
+Initial tree cost (NJ): 2559
+New tree has a better cost: 2550
+New tree has a better cost: 2543
+New tree has a better cost: 2534
+New tree has a better cost: 2531
+New tree has a better cost: 2530
+
+Initial tree cost (NJ): 1525
+New tree has a better cost: 1524
+New tree has a better cost: 1519
+
+Initial tree cost (NJ): 1645
+New tree has a better cost: 1641
+New tree has a better cost: 1639
+New tree has a better cost: 1636
+
+Initial tree cost (NJ): 1651
+New tree has a better cost: 1648
+New tree has a better cost: 1642
+New tree has a better cost: 1641
+New tree has a better cost: 1631
+New tree has a better cost: 1626
+
+Initial tree cost (NJ): 1730
+New tree has a better cost: 1719
+New tree has a better cost: 1716
+New tree has a better cost: 1715
+
+Initial tree cost (NJ): 1964
+New tree has a better cost: 1953
+New tree has a better cost: 1948
+New tree has a better cost: 1945
+New tree has a better cost: 1944
+New tree has a better cost: 1943
+New tree has a better cost: 1941
+New tree has a better cost: 1940
+New tree has a better cost: 1935
+
+Initial tree cost (NJ): 1176
+New tree has a better cost: 1167
+New tree has a better cost: 1163
+New tree has a better cost: 1162
+
+Initial tree cost (NJ): 2654
+New tree has a better cost: 2647
+New tree has a better cost: 2641
+New tree has a better cost: 2637
+New tree has a better cost: 2635
+New tree has a better cost: 2632
+New tree has a better cost: 2631
+
+Initial tree cost (NJ): 2590
+New tree has a better cost: 2579
+New tree has a better cost: 2575
+New tree has a better cost: 2574
+New tree has a better cost: 2569
+New tree has a better cost: 2563
+New tree has a better cost: 2556
+New tree has a better cost: 2551
+New tree has a better cost: 2550
+New tree has a better cost: 2546
+New tree has a better cost: 2545
+
+Initial tree cost (NJ): 1969
+New tree has a better cost: 1959
+New tree has a better cost: 1956
+New tree has a better cost: 1953
+
+Initial tree cost (NJ): 2878
+New tree has a better cost: 2876
+New tree has a better cost: 2869
+New tree has a better cost: 2864
+New tree has a better cost: 2862
+
+Initial tree cost (NJ): 576
+New tree has a better cost: 575

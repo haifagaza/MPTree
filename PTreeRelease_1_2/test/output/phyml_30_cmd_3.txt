@@ -1,0 +1,66 @@
+time sh ptreeLinux64.sh /home/mptree/Documents/Datasets/PhyML_30/all_seq /home/mptree/Documents/Datasets/PhyML_30/test_run3.newick config.xml >> /home/mptree/Documents/Datasets/PhyML_30/test_run3.txt
+Mar 02, 2018 3:17:29 PM ptree.PTreeMethods printReport
+INFO: Result for "Tax31" (1st vertex name)time: 00:00:01 (hh:mm:ss) fitch cost: 1579 output cost: 1588
+Mar 02, 2018 3:17:30 PM ptree.PTreeMethods printReport
+INFO: Result for "Tax38" (1st vertex name)time: 00:00:00 (hh:mm:ss) fitch cost: 2531 output cost: 2573
+Mar 02, 2018 3:17:30 PM ptree.PTreeMethods printReport
+INFO: Result for "Tax31" (1st vertex name)time: 00:00:00 (hh:mm:ss) fitch cost: 455 output cost: 455
+Mar 02, 2018 3:17:31 PM ptree.PTreeMethods printReport
+INFO: Result for "Tax36" (1st vertex name)time: 00:00:00 (hh:mm:ss) fitch cost: 883 output cost: 883
+Mar 02, 2018 3:17:31 PM ptree.PTreeMethods printReport
+INFO: Result for "Tax5" (1st vertex name)time: 00:00:00 (hh:mm:ss) fitch cost: 615 output cost: 616
+Mar 02, 2018 3:17:32 PM ptree.PTreeMethods printReport
+INFO: Result for "Tax23" (1st vertex name)time: 00:00:00 (hh:mm:ss) fitch cost: 2698 output cost: 2727
+Mar 02, 2018 3:17:33 PM ptree.PTreeMethods printReport
+INFO: Result for "Tax1" (1st vertex name)time: 00:00:00 (hh:mm:ss) fitch cost: 1655 output cost: 1659
+Mar 02, 2018 3:17:33 PM ptree.PTreeMethods printReport
+INFO: Result for "Tax16" (1st vertex name)time: 00:00:00 (hh:mm:ss) fitch cost: 1530 output cost: 1539
+Mar 02, 2018 3:17:34 PM ptree.PTreeMethods printReport
+INFO: Result for "Tax2" (1st vertex name)time: 00:00:00 (hh:mm:ss) fitch cost: 452 output cost: 452
+Mar 02, 2018 3:17:34 PM ptree.PTreeMethods printReport
+INFO: Result for "Tax15" (1st vertex name)time: 00:00:00 (hh:mm:ss) fitch cost: 380 output cost: 380
+Mar 02, 2018 3:17:35 PM ptree.PTreeMethods printReport
+INFO: Result for "Tax18" (1st vertex name)time: 00:00:00 (hh:mm:ss) fitch cost: 2642 output cost: 2669
+Mar 02, 2018 3:17:35 PM ptree.PTreeMethods printReport
+INFO: Result for "Tax30" (1st vertex name)time: 00:00:00 (hh:mm:ss) fitch cost: 2031 output cost: 2056
+Mar 02, 2018 3:17:36 PM ptree.PTreeMethods printReport
+INFO: Result for "Tax5" (1st vertex name)time: 00:00:00 (hh:mm:ss) fitch cost: 3052 output cost: 3088
+Mar 02, 2018 3:17:37 PM ptree.PTreeMethods printReport
+INFO: Result for "Tax15" (1st vertex name)time: 00:00:00 (hh:mm:ss) fitch cost: 2705 output cost: 2744
+Mar 02, 2018 3:17:37 PM ptree.PTreeMethods printReport
+INFO: Result for "Tax2" (1st vertex name)time: 00:00:00 (hh:mm:ss) fitch cost: 1484 output cost: 1491
+Mar 02, 2018 3:17:38 PM ptree.PTreeMethods printReport
+INFO: Result for "Tax30" (1st vertex name)time: 00:00:00 (hh:mm:ss) fitch cost: 391 output cost: 391
+Mar 02, 2018 3:17:38 PM ptree.PTreeMethods printReport
+INFO: Result for "Tax20" (1st vertex name)time: 00:00:00 (hh:mm:ss) fitch cost: 2015 output cost: 2033
+Mar 02, 2018 3:17:39 PM ptree.PTreeMethods printReport
+INFO: Result for "Tax4" (1st vertex name)time: 00:00:00 (hh:mm:ss) fitch cost: 2233 output cost: 2240
+Mar 02, 2018 3:17:40 PM ptree.PTreeMethods printReport
+INFO: Result for "Tax7" (1st vertex name)time: 00:00:00 (hh:mm:ss) fitch cost: 2533 output cost: 2566
+Mar 02, 2018 3:17:40 PM ptree.PTreeMethods printReport
+INFO: Result for "Tax12" (1st vertex name)time: 00:00:00 (hh:mm:ss) fitch cost: 1514 output cost: 1526
+Mar 02, 2018 3:17:41 PM ptree.PTreeMethods printReport
+INFO: Result for "Tax16" (1st vertex name)time: 00:00:00 (hh:mm:ss) fitch cost: 1636 output cost: 1653
+Mar 02, 2018 3:17:42 PM ptree.PTreeMethods printReport
+INFO: Result for "Tax0" (1st vertex name)time: 00:00:00 (hh:mm:ss) fitch cost: 1626 output cost: 1646
+Mar 02, 2018 3:17:42 PM ptree.PTreeMethods printReport
+INFO: Result for "Tax26" (1st vertex name)time: 00:00:00 (hh:mm:ss) fitch cost: 1715 output cost: 1723
+Mar 02, 2018 3:17:43 PM ptree.PTreeMethods printReport
+INFO: Result for "Tax2" (1st vertex name)time: 00:00:00 (hh:mm:ss) fitch cost: 1936 output cost: 1946
+Mar 02, 2018 3:17:43 PM ptree.PTreeMethods printReport
+INFO: Result for "Tax14" (1st vertex name)time: 00:00:00 (hh:mm:ss) fitch cost: 1162 output cost: 1170
+Mar 02, 2018 3:17:44 PM ptree.PTreeMethods printReport
+INFO: Result for "Tax0" (1st vertex name)time: 00:00:00 (hh:mm:ss) fitch cost: 2630 output cost: 2662
+Mar 02, 2018 3:17:45 PM ptree.PTreeMethods printReport
+INFO: Result for "Tax13" (1st vertex name)time: 00:00:00 (hh:mm:ss) fitch cost: 2545 output cost: 2572
+Mar 02, 2018 3:17:46 PM ptree.PTreeMethods printReport
+INFO: Result for "Tax3" (1st vertex name)time: 00:00:00 (hh:mm:ss) fitch cost: 1953 output cost: 1970
+Mar 02, 2018 3:17:47 PM ptree.PTreeMethods printReport
+INFO: Result for "Tax5" (1st vertex name)time: 00:00:00 (hh:mm:ss) fitch cost: 2865 output cost: 2919
+Mar 02, 2018 3:17:47 PM ptree.PTreeMethods printReport
+INFO: Result for "Tax18" (1st vertex name)time: 00:00:00 (hh:mm:ss) fitch cost: 575 output cost: 575
+
+real	0m19.294s
+user	0m31.804s
+sys	0m0.384s
+
