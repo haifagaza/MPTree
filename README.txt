@@ -2,6 +2,8 @@ Setting up
 	* OS: Linux
 	* Java: java 1.8.0_161
 	* R: R 3.4.3
+	* Processor: AMB FX(tm)-8150 Eight-Core Processor x 4
+	* Memory: 15.4 GiB
 
 Dataset:
 	* We created a python script that randomly took 30 datasets from PhyML containing 5000 datasets  with 40 taxa of 500bp length each
